@@ -1,10 +1,10 @@
 new_topic_button_icon:
-  default: "plus"
+  default: "far-pen-to-square"
 new_topic_button_text:
-  default: "New Topic"
-new_topic_button_title:
   default: ""
+new_topic_button_title:
+  default: "Create New Topics"
 hide_default_button:
-  default: true
+  default: false
 show_to_anon:
   default: false
